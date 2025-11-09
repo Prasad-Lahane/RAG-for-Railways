@@ -1,0 +1,5 @@
+pip install transformers
+pip install sentence-transformers
+pip install faiss-cpu  # For CPU version, use 'faiss-gpu' if using GPU
+pip install numpy
+pip install torch
